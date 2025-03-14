@@ -1,0 +1,125 @@
+14 Mar 2025 13:26:04,039 INFO  ro.mpp2025.CarsDBRepository 19 <init> - Initializing CarsDBRepository with properties: {} 
+14 Mar 2025 13:26:04,049 TRACE ro.mpp2025.CarsDBRepository 83 add - Enter saving car Id=0 Tesla Model S 2019 
+14 Mar 2025 13:26:04,049 TRACE ro.mpp2025.JdbcUtils 48 getConnection - Enter
+14 Mar 2025 13:26:04,049 TRACE ro.mpp2025.JdbcUtils 25 getNewConnection - Enter
+14 Mar 2025 13:26:04,049 INFO  ro.mpp2025.JdbcUtils 30 getNewConnection - trying to connect to database ... null
+14 Mar 2025 13:26:04,050 INFO  ro.mpp2025.JdbcUtils 31 getNewConnection - user: null
+14 Mar 2025 13:26:04,050 INFO  ro.mpp2025.JdbcUtils 32 getNewConnection - pass: null
+14 Mar 2025 13:26:04,052 ERROR ro.mpp2025.JdbcUtils 41 getNewConnection - java.sql.SQLException: The url cannot be null
+14 Mar 2025 13:26:04,053 TRACE ro.mpp2025.JdbcUtils 57 getConnection - Exit
+14 Mar 2025 13:27:22,413 INFO  ro.mpp2025.CarsDBRepository 19 <init> - Initializing CarsDBRepository with properties: {} 
+14 Mar 2025 13:27:22,420 TRACE ro.mpp2025.CarsDBRepository 83 add - Enter saving car Id=0 Tesla Model S 2019 
+14 Mar 2025 13:27:22,420 TRACE ro.mpp2025.JdbcUtils 48 getConnection - Enter
+14 Mar 2025 13:27:22,420 TRACE ro.mpp2025.JdbcUtils 25 getNewConnection - Enter
+14 Mar 2025 13:27:22,421 INFO  ro.mpp2025.JdbcUtils 30 getNewConnection - trying to connect to database ... null
+14 Mar 2025 13:27:22,421 INFO  ro.mpp2025.JdbcUtils 31 getNewConnection - user: null
+14 Mar 2025 13:27:22,421 INFO  ro.mpp2025.JdbcUtils 32 getNewConnection - pass: null
+14 Mar 2025 13:27:22,422 ERROR ro.mpp2025.JdbcUtils 41 getNewConnection - java.sql.SQLException: The url cannot be null
+14 Mar 2025 13:27:22,423 TRACE ro.mpp2025.JdbcUtils 57 getConnection - Exit
+14 Mar 2025 13:27:53,554 INFO  ro.mpp2025.CarsDBRepository 19 <init> - Initializing CarsDBRepository with properties: {} 
+14 Mar 2025 13:27:53,561 TRACE ro.mpp2025.CarsDBRepository 83 add - Enter saving car Id=0 Tesla Model S 2019 
+14 Mar 2025 13:27:53,561 TRACE ro.mpp2025.JdbcUtils 48 getConnection - Enter
+14 Mar 2025 13:27:53,562 TRACE ro.mpp2025.JdbcUtils 25 getNewConnection - Enter
+14 Mar 2025 13:27:53,562 INFO  ro.mpp2025.JdbcUtils 30 getNewConnection - trying to connect to database ... null
+14 Mar 2025 13:27:53,562 INFO  ro.mpp2025.JdbcUtils 31 getNewConnection - user: null
+14 Mar 2025 13:27:53,562 INFO  ro.mpp2025.JdbcUtils 32 getNewConnection - pass: null
+14 Mar 2025 13:27:53,564 ERROR ro.mpp2025.JdbcUtils 41 getNewConnection - java.sql.SQLException: The url cannot be null
+14 Mar 2025 13:27:53,564 TRACE ro.mpp2025.JdbcUtils 57 getConnection - Exit
+14 Mar 2025 13:28:13,907 INFO  ro.mpp2025.CarsDBRepository 19 <init> - Initializing CarsDBRepository with properties: {} 
+14 Mar 2025 13:28:13,915 TRACE ro.mpp2025.CarsDBRepository 83 add - Enter saving car Id=0 Tesla Model S 2019 
+14 Mar 2025 13:28:13,915 TRACE ro.mpp2025.JdbcUtils 48 getConnection - Enter
+14 Mar 2025 13:28:13,915 TRACE ro.mpp2025.JdbcUtils 25 getNewConnection - Enter
+14 Mar 2025 13:28:13,916 INFO  ro.mpp2025.JdbcUtils 30 getNewConnection - trying to connect to database ... null
+14 Mar 2025 13:28:13,916 INFO  ro.mpp2025.JdbcUtils 31 getNewConnection - user: null
+14 Mar 2025 13:28:13,916 INFO  ro.mpp2025.JdbcUtils 32 getNewConnection - pass: null
+14 Mar 2025 13:28:13,917 ERROR ro.mpp2025.JdbcUtils 41 getNewConnection - java.sql.SQLException: The url cannot be null
+14 Mar 2025 13:28:13,918 TRACE ro.mpp2025.JdbcUtils 57 getConnection - Exit
+14 Mar 2025 13:28:20,676 INFO  ro.mpp2025.CarsDBRepository 19 <init> - Initializing CarsDBRepository with properties: {} 
+14 Mar 2025 13:28:20,685 TRACE ro.mpp2025.CarsDBRepository 83 add - Enter saving car Id=0 Tesla Model S 2019 
+14 Mar 2025 13:28:20,685 TRACE ro.mpp2025.JdbcUtils 48 getConnection - Enter
+14 Mar 2025 13:28:20,685 TRACE ro.mpp2025.JdbcUtils 25 getNewConnection - Enter
+14 Mar 2025 13:28:20,685 INFO  ro.mpp2025.JdbcUtils 30 getNewConnection - trying to connect to database ... null
+14 Mar 2025 13:28:20,685 INFO  ro.mpp2025.JdbcUtils 31 getNewConnection - user: null
+14 Mar 2025 13:28:20,685 INFO  ro.mpp2025.JdbcUtils 32 getNewConnection - pass: null
+14 Mar 2025 13:28:20,687 ERROR ro.mpp2025.JdbcUtils 41 getNewConnection - java.sql.SQLException: The url cannot be null
+14 Mar 2025 13:28:20,687 TRACE ro.mpp2025.JdbcUtils 57 getConnection - Exit
+14 Mar 2025 13:28:36,023 INFO  ro.mpp2025.CarsDBRepository 19 <init> - Initializing CarsDBRepository with properties: {} 
+14 Mar 2025 13:28:36,030 TRACE ro.mpp2025.CarsDBRepository 83 add - Enter saving car Id=0 Tesla Model S 2019 
+14 Mar 2025 13:28:36,030 TRACE ro.mpp2025.JdbcUtils 48 getConnection - Enter
+14 Mar 2025 13:28:36,030 TRACE ro.mpp2025.JdbcUtils 25 getNewConnection - Enter
+14 Mar 2025 13:28:36,030 INFO  ro.mpp2025.JdbcUtils 30 getNewConnection - trying to connect to database ... null
+14 Mar 2025 13:28:36,031 INFO  ro.mpp2025.JdbcUtils 31 getNewConnection - user: null
+14 Mar 2025 13:28:36,031 INFO  ro.mpp2025.JdbcUtils 32 getNewConnection - pass: null
+14 Mar 2025 13:28:36,032 ERROR ro.mpp2025.JdbcUtils 41 getNewConnection - java.sql.SQLException: The url cannot be null
+14 Mar 2025 13:28:36,032 TRACE ro.mpp2025.JdbcUtils 57 getConnection - Exit
+14 Mar 2025 13:29:42,107 INFO  ro.mpp2025.CarsDBRepository 19 <init> - Initializing CarsDBRepository with properties: {} 
+14 Mar 2025 13:29:42,115 TRACE ro.mpp2025.CarsDBRepository 83 add - Enter saving car Id=0 Tesla Model S 2019 
+14 Mar 2025 13:29:42,115 TRACE ro.mpp2025.JdbcUtils 48 getConnection - Enter
+14 Mar 2025 13:29:42,115 TRACE ro.mpp2025.JdbcUtils 25 getNewConnection - Enter
+14 Mar 2025 13:29:42,115 INFO  ro.mpp2025.JdbcUtils 30 getNewConnection - trying to connect to database ... null
+14 Mar 2025 13:29:42,116 INFO  ro.mpp2025.JdbcUtils 31 getNewConnection - user: null
+14 Mar 2025 13:29:42,116 INFO  ro.mpp2025.JdbcUtils 32 getNewConnection - pass: null
+14 Mar 2025 13:29:42,117 ERROR ro.mpp2025.JdbcUtils 41 getNewConnection - java.sql.SQLException: The url cannot be null
+14 Mar 2025 13:29:42,118 TRACE ro.mpp2025.JdbcUtils 57 getConnection - Exit
+14 Mar 2025 13:30:29,929 INFO  ro.mpp2025.CarsDBRepository 19 <init> - Initializing CarsDBRepository with properties: {} 
+14 Mar 2025 13:30:29,937 TRACE ro.mpp2025.CarsDBRepository 83 add - Enter saving car Id=0 Tesla Model S 2019 
+14 Mar 2025 13:30:29,937 TRACE ro.mpp2025.JdbcUtils 48 getConnection - Enter
+14 Mar 2025 13:30:29,937 TRACE ro.mpp2025.JdbcUtils 25 getNewConnection - Enter
+14 Mar 2025 13:30:29,937 INFO  ro.mpp2025.JdbcUtils 30 getNewConnection - trying to connect to database ... null
+14 Mar 2025 13:30:29,937 INFO  ro.mpp2025.JdbcUtils 31 getNewConnection - user: null
+14 Mar 2025 13:30:29,938 INFO  ro.mpp2025.JdbcUtils 32 getNewConnection - pass: null
+14 Mar 2025 13:30:29,939 ERROR ro.mpp2025.JdbcUtils 41 getNewConnection - java.sql.SQLException: The url cannot be null
+14 Mar 2025 13:30:29,939 TRACE ro.mpp2025.JdbcUtils 57 getConnection - Exit
+14 Mar 2025 13:32:35,669 INFO  ro.mpp2025.CarsDBRepository 19 <init> - Initializing CarsDBRepository with properties: {} 
+14 Mar 2025 13:32:35,698 TRACE ro.mpp2025.CarsDBRepository 83 add - Enter saving car Id=0 Tesla Model S 2019 
+14 Mar 2025 13:32:35,699 TRACE ro.mpp2025.JdbcUtils 48 getConnection - Enter
+14 Mar 2025 13:32:35,700 TRACE ro.mpp2025.JdbcUtils 25 getNewConnection - Enter
+14 Mar 2025 13:32:35,701 INFO  ro.mpp2025.JdbcUtils 30 getNewConnection - trying to connect to database ... null
+14 Mar 2025 13:32:35,701 INFO  ro.mpp2025.JdbcUtils 31 getNewConnection - user: null
+14 Mar 2025 13:32:35,703 INFO  ro.mpp2025.JdbcUtils 32 getNewConnection - pass: null
+14 Mar 2025 13:32:35,707 ERROR ro.mpp2025.JdbcUtils 41 getNewConnection - java.sql.SQLException: The url cannot be null
+14 Mar 2025 13:32:35,710 TRACE ro.mpp2025.JdbcUtils 57 getConnection - Exit
+14 Mar 2025 13:33:11,673 INFO  ro.mpp2025.CarsDBRepository 19 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:C:MPPcars.db} 
+14 Mar 2025 13:33:11,706 TRACE ro.mpp2025.CarsDBRepository 83 add - Enter saving car Id=0 Tesla Model S 2019 
+14 Mar 2025 13:33:11,707 TRACE ro.mpp2025.JdbcUtils 48 getConnection - Enter
+14 Mar 2025 13:33:11,707 TRACE ro.mpp2025.JdbcUtils 25 getNewConnection - Enter
+14 Mar 2025 13:33:11,708 INFO  ro.mpp2025.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:MPPcars.db
+14 Mar 2025 13:33:11,708 INFO  ro.mpp2025.JdbcUtils 31 getNewConnection - user: null
+14 Mar 2025 13:33:11,709 INFO  ro.mpp2025.JdbcUtils 32 getNewConnection - pass: null
+14 Mar 2025 13:33:12,395 TRACE ro.mpp2025.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@565f390)
+14 Mar 2025 13:33:12,409 ERROR ro.mpp2025.CarsDBRepository 92 add - org.sqlite.SQLiteException: [SQLITE_ERROR] SQL error or missing database (no such table: cars)
+14 Mar 2025 13:33:12,410 TRACE ro.mpp2025.CarsDBRepository 95 add - Exit
+14 Mar 2025 13:33:12,411 TRACE ro.mpp2025.CarsDBRepository 118 findAll - Enter
+14 Mar 2025 13:33:12,412 TRACE ro.mpp2025.JdbcUtils 48 getConnection - Enter
+14 Mar 2025 13:33:12,412 TRACE ro.mpp2025.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@565f390)
+14 Mar 2025 13:33:12,414 ERROR ro.mpp2025.CarsDBRepository 137 findAll - org.sqlite.SQLiteException: [SQLITE_ERROR] SQL error or missing database (no such table: cars)
+14 Mar 2025 13:33:12,415 TRACE ro.mpp2025.CarsDBRepository 25 findByManufacturer - Enter
+14 Mar 2025 13:33:12,416 TRACE ro.mpp2025.JdbcUtils 48 getConnection - Enter
+14 Mar 2025 13:33:12,416 TRACE ro.mpp2025.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@565f390)
+14 Mar 2025 13:33:12,417 ERROR ro.mpp2025.CarsDBRepository 46 findByManufacturer - org.sqlite.SQLiteException: [SQLITE_ERROR] SQL error or missing database (no such table: cars)
+14 Mar 2025 13:33:12,418 TRACE ro.mpp2025.CarsDBRepository 100 update - Enter updating car Id=0 Dacia Logan 2021 
+14 Mar 2025 13:33:12,418 TRACE ro.mpp2025.JdbcUtils 48 getConnection - Enter
+14 Mar 2025 13:33:12,419 TRACE ro.mpp2025.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@565f390)
+14 Mar 2025 13:33:12,420 ERROR ro.mpp2025.CarsDBRepository 110 update - org.sqlite.SQLiteException: [SQLITE_ERROR] SQL error or missing database (no such table: cars)
+14 Mar 2025 13:33:12,420 TRACE ro.mpp2025.CarsDBRepository 113 update - Exit
+14 Mar 2025 13:33:45,804 INFO  ro.mpp2025.CarsDBRepository 19 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:C:\MPP\cars.db} 
+14 Mar 2025 13:33:45,836 TRACE ro.mpp2025.CarsDBRepository 83 add - Enter saving car Id=0 Tesla Model S 2019 
+14 Mar 2025 13:33:45,837 TRACE ro.mpp2025.JdbcUtils 48 getConnection - Enter
+14 Mar 2025 13:33:45,838 TRACE ro.mpp2025.JdbcUtils 25 getNewConnection - Enter
+14 Mar 2025 13:33:45,838 INFO  ro.mpp2025.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:\MPP\cars.db
+14 Mar 2025 13:33:45,840 INFO  ro.mpp2025.JdbcUtils 31 getNewConnection - user: null
+14 Mar 2025 13:33:45,840 INFO  ro.mpp2025.JdbcUtils 32 getNewConnection - pass: null
+14 Mar 2025 13:33:46,485 TRACE ro.mpp2025.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@565f390)
+14 Mar 2025 13:33:46,515 TRACE ro.mpp2025.CarsDBRepository 90 add - Saved 1 instances
+14 Mar 2025 13:33:46,516 TRACE ro.mpp2025.CarsDBRepository 95 add - Exit
+14 Mar 2025 13:33:46,517 TRACE ro.mpp2025.CarsDBRepository 118 findAll - Enter
+14 Mar 2025 13:33:46,518 TRACE ro.mpp2025.JdbcUtils 48 getConnection - Enter
+14 Mar 2025 13:33:46,518 TRACE ro.mpp2025.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@565f390)
+14 Mar 2025 13:33:46,527 TRACE ro.mpp2025.CarsDBRepository 25 findByManufacturer - Enter
+14 Mar 2025 13:33:46,528 TRACE ro.mpp2025.JdbcUtils 48 getConnection - Enter
+14 Mar 2025 13:33:46,529 TRACE ro.mpp2025.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@565f390)
+14 Mar 2025 13:33:46,530 TRACE ro.mpp2025.CarsDBRepository 100 update - Enter updating car Id=0 Dacia Logan 2021 
+14 Mar 2025 13:33:46,530 TRACE ro.mpp2025.JdbcUtils 48 getConnection - Enter
+14 Mar 2025 13:33:46,531 TRACE ro.mpp2025.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@565f390)
+14 Mar 2025 13:33:46,540 TRACE ro.mpp2025.CarsDBRepository 108 update - Updated 1 instances
+14 Mar 2025 13:33:46,541 TRACE ro.mpp2025.CarsDBRepository 113 update - Exit
